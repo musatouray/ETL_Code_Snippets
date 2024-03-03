@@ -1,2 +1,2 @@
-# power_query_m
-Code snippets of my often used M transformation tips and tricks
+# ETL_Code_Snippets
+Code snippets of my often-used data transformation tips and tricks
